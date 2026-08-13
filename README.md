@@ -2,33 +2,32 @@
 
 **SEO Consultant & Digital Marketer | Founder @ RankEdge Digital**
 
-I help businesses grow organic visibility through data-driven SEO, technical audits, on-page/off-page optimization, local SEO, and content strategy. I also work on GEO/AEO (Generative & Answer Engine Optimization), helping brands get cited by AI tools like ChatGPT, Perplexity, and Gemini, not just rank on Google.
+I help businesses grow organic visibility through data-driven SEO — technical audits, on-page/off-page optimization, local SEO, and content strategy. I also work on **GEO/AEO** (Generative & Answer Engine Optimization), helping brands get cited by AI tools like ChatGPT, Perplexity, and Gemini — not just rank on Google.
 
-🔗 **Hire me on Upwork:** [upwork.com/freelancers/mmueen](https://www.upwork.com/freelancers/mmueen)
-
+🔗 **Hire me on Upwork:** [upwork.com/freelancers/mmueen](https://www.upwork.com/freelancers/mmueen)  
 📍 Based in Bahawalpur, Pakistan
 
 ---
 
 ### 🛠 What I Do
 
-- **Technical SEO**: Site audits, crawlability, indexation, Core Web Vitals, schema/JSON-LD
-- **On-Page & Off-Page SEO**: Keyword optimization, content strategy, link building
-- **Local SEO**: Google Business Profile management, citations, local pack rankings
-- **GEO / AEO**: Optimizing brand visibility inside AI-generated answers
-- **SEO Audits & Roadmaps**: Full site audits with prioritized 90-day action plans
+- **Technical SEO** — site audits, crawlability, indexation, Core Web Vitals, schema/JSON-LD
+- **On-Page & Off-Page SEO** — keyword optimization, content strategy, link building
+- **Local SEO** — Google Business Profile management, citations, local pack rankings
+- **GEO / AEO** — optimizing brand visibility inside AI-generated answers
+- **SEO Audits & Roadmaps** — full site audits with prioritized 90-day action plans
 
 ### 📈 Proven Results
 
-Below are real client wins, organic traffic growth, ranking improvements, and technical fixes, verified with Google Search Console, SEMrush, and Ahrefs data.
+Real client wins verified with Google Search Console, Ahrefs, and SEMrush data.
 
-👉 **Full case studies with screenshots:** [seo-case-studies repo link]
+👉 **Full case studies with screenshots:** [Seo-Case-Studies](https://github.com/mueen357/Seo-Case-Studies)
 
-| Client / Project | Result |
+| Project | Result |
 |---|---|
-| *SEO Specialist for B2B SaaS* | *+650% organic traffic in 2 months* |
-| *SEO Strategist* | *Ranked #1 for target keyword* |
-| *SEO Expert Required* | *Recovered from noindex issue, traffic restored* |
+| [Link Building & Authority Growth](https://github.com/mueen357/Seo-Case-Studies/tree/main/client1-coastal-sports-wellness) | 459 referring domains · 34.3K backlinks · Authority Score 21 |
+| [Organic Traffic Growth](https://github.com/mueen357/Seo-Case-Studies/tree/main/client2-organic-traffic-growth) | 68.5K clicks · 603K impressions · 11.4% CTR |
+| [Technical & On-Page Optimization](https://github.com/mueen357/Seo-Case-Studies/tree/main/client3-technical-onpage-fixes) | 0 invalid items · 144 valid · Content score 32 → 83.6 |
 
 ### 🧰 Tools I Use
 
@@ -37,4 +36,4 @@ Below are real client wins, organic traffic growth, ranking improvements, and te
 ### 📫 Let's Connect
 
 - Upwork: [upwork.com/freelancers/mmueen](https://www.upwork.com/freelancers/mmueen)
-- LinkedIn: *https://www.linkedin.com/in/mueenbhatti/*
+- LinkedIn: [linkedin.com/in/mueenbhatti](https://www.linkedin.com/in/mueenbhatti/)
